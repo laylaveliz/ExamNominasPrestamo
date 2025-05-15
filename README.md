@@ -1,0 +1,2 @@
+# ExamNominasPrestamo
+Componente Práctico
